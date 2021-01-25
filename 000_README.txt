@@ -1,1 +1,1 @@
-Start with Sound_Main
+Start only TKSmain
